@@ -1,21 +1,56 @@
-<h1 align="center">Hi 👋, I'm Saba Junaid</h1>
-<h3 align="center">A passionate Computer Science student, Frontend Developer, and AI & Data Science enthusiast.</h3>
+# Hi there! 👋 I'm Saba
 
-- 🔭 I’m currently working on **Python, Data Science, and Frontend projects**
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+I am a **Frontend Developer** and a **Certified Data Scientist**, currently pursuing a **Certified Generative AI Course**. Passionate about building modern web applications and leveraging AI to solve real-world problems.
 
-- 👯 I’m looking to collaborate on **AI, Data Science, and Frontend (Next.js, React) projects**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Saba988](https://github.com/Saba988)
+## 🛠 Tech Stack
 
-- 💬 Ask me about **Python, Data Science, TypeScript, Next.js**
+### **Frontend Development**
+- React.js | Next.js | TypeScript | JavaScript
+- HTML5 | CSS3 | TailwindCSS | Bootstrap
+- UI/UX Design | Responsive Web Design
 
-- 📫 How to reach me **sabajunaid146@gmail.com**
+### **Data Science & AI**
+- Python | NumPy | Pandas | Matplotlib | Seaborn
+- Machine Learning | Deep Learning
+- Generative AI (Currently Learning)
 
-<h3 align="left">Connect with me: [https://www.linkedin.com/in/saba-junaid-ab86b1313/]</h3>
-<p align="left">
-</p>
+### **Tools & Platforms**
+- Git & GitHub | VS Code | Postman
+- Firebase | Vercel | Netlify
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 📌 Work & Projects
+
+- 🔭 **I’m currently working on:** Next.js and Generative AI Projects
+- 🤝 **I’m looking to collaborate on:** AI & Frontend Development Projects
+- 🌱 **Currently Learning:** Advanced Generative AI & TypeScript
+- 💡 **Ask me about:** Next.js, TypeScript, Python, and Data Science
+
+---
+
+## 📸 GitHub Stats & Activity
+
+![Saba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saba988&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saba988&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saba-junaid-ab86b1313/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saba988)  
+
+---
+
+## 🎯 Fun Fact
+✨ I love exploring new technologies but struggle with consistency! 😅
+
+---
+
+Feel free to connect and collaborate! 🚀
+
