@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sabajunaid146@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [https://www.linkedin.com/in/saba-junaid-ab86b1313/]</h3>
 <p align="left">
 </p>
 
