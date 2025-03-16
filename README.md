@@ -33,12 +33,6 @@ I am a **Frontend Developer** and a **Certified Data Scientist**, currently purs
 
 ---
 
-## 📸 GitHub Stats & Activity
-
-![Saba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saba988&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saba988&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect with Me
 
