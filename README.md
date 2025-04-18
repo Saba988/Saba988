@@ -41,10 +41,6 @@ I am a **Frontend Developer** and a **Certified Data Scientist**, currently purs
 
 ---
 
-## 🎯 Fun Fact
-✨ I love exploring new technologies but struggle with consistency! 😅
-
----
 
 Feel free to connect and collaborate! 🚀
 
